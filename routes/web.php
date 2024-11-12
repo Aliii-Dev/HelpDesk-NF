@@ -15,3 +15,11 @@ Route::get('/register', function () {
 Route::get('/ticket', function () {
     return view('ticket');
 });
+
+Route::get('/about', function () {
+    return view('about');
+});
+
+Route::get('/features', function () {
+    return view('features');
+});
