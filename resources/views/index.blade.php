@@ -1,4 +1,6 @@
 <x-layout>
+    @vite('resources/css/app.css')
+
     <x-main>
         <main class="main">
             <!-- Hero Section -->

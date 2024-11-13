@@ -1,11 +1,15 @@
 <x-layout>
+    @vite('resources/css/app.css')
+
     <x-main>
         <!-- Features Section -->
         <section id="features" class="features section">
             <!-- Section Title -->
             <div class="container section-title" data-aos="fade-up">
                 <h2>Features</h2>
-                <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+                <p>Kami menyediakan fitur-fitur yang diharapakan sangat bermanfaat dan dapat membantu mempercepat
+                    pelaporan anda
+                    kepada tim kami</p>
             </div>
             <!-- End Section Title -->
 

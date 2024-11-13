@@ -43,10 +43,10 @@
                 <h4>Follow Us</h4>
                 <p>Cras fermentum odio eu feugiat lide par naso tierra videa magna derita valies</p>
                 <div class="social-links d-flex">
-                    <a href=""><i class="bi bi-twitter-x"></i></a>
+                    <a href=""><i class="bi bi-yyoutube"></i></a>
                     <a href=""><i class="bi bi-facebook"></i></a>
                     <a href=""><i class="bi bi-instagram"></i></a>
-                    <a href=""><i class="bi bi-linkedin"></i></a>
+                    <a href=""><i class="bi bi-whatsapp"></i></a>
                 </div>
             </div>
         </div>
@@ -55,6 +55,6 @@
     <div class="container copyright text-center mt-4">
         <p>© <span>Copyright</span> <strong class="px-1 sitename">HelpDesk NF</strong> <span>All Rights Reserved</span>
         </p>
-        <div class="credits">Designed by <a href="https://bootstrapmade.com/">Ali Dev's</a></div>
+        <div class="credits">Designed by <a href="https://sulthanalighozi.github.io/">Ali Dev's</a></div>
     </div>
 </footer>

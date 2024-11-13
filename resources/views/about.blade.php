@@ -1,4 +1,6 @@
 <x-layout>
+    @vite('resources/css/app.css')
+
     <x-main>
         <!-- About Section -->
         <section id="about" class="about section light-background">
